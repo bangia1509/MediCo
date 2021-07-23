@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "696215306739",
+    "firebase_url": "https://medico-32eb7.firebaseio.com",
+    "project_id": "medico-32eb7",
+    "storage_bucket": "medico-32eb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696215306739:android:636455e211711731389286",
+        "android_client_info": {
+          "package_name": "com.example.medi_co"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696215306739-cqmhn4laj25dhhn6n2muk96p378vlq4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvdl_TS-k2JHUFMSrX8J7Ps4OBHuGVpbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696215306739-cqmhn4laj25dhhn6n2muk96p378vlq4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
