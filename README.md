@@ -13,7 +13,7 @@ process.
 
 ## APK Link
 
-Download the app in your Android decive from:
+Download the app in your Android Device from:
 http://bit.ly/MediCoApp
 
   
