@@ -1,16 +1,26 @@
-# medi_co
 
-A new Flutter project.
+# MediCo Application
 
-## Getting Started
+The app MediCo is designed to make Doctor–Patient relationship better, easier and less tedious. 
+This application will have 2 portals, one for the doctor and one for the patient. Doctors can update the 
+medical diagnosis and medication of each of their patients and this will be updated to the database, and 
+hence will be visible to the respective patients. Patients can also book an appointment with their desired
+doctor, and then the doctor can choose whether to accept or not. This app can come handy for those 
+doctors who run independent clinics and are still dependent on large amounts of paper work for each 
+patient. The purpose behind this app is to make the whole process simpler and save a lot of paper in the 
+process.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## APK Link
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Download the app in your Android decive from:
+http://bit.ly/MediCoApp
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  
+## Technologies Used
+
+**Front End:** Flutter, Dart
+
+**Back End:** Firebase
+
+  
